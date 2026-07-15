@@ -387,11 +387,7 @@ article>button{
     font-weight: 500;
 }
 
-article > button:hover{
-    color: var(--white);
-    background-color: var(--color-secondary);
-    cursor: pointer;
-}
+
 
 article:hover{
     border: 1px solid var(--color-primary);
