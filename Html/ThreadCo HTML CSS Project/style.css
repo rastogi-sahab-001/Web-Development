@@ -393,3 +393,7 @@ article > button:hover{
     cursor: pointer;
 }
 
+article:hover{
+    border: 1px solid var(--color-primary);
+    box-shadow: 0px 10px 10px var(--color-primary-glow);
+}
