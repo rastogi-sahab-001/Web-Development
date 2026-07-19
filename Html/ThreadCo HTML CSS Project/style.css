@@ -377,15 +377,7 @@ article > a{
 article > a:hover{
    color: var(--color-secondary);
 }
-article>button{
-    margin: 10px 20px;
-    padding: 10px 20px;
-    border-radius: var(--radius-sm);
-    border: none;
-    text-transform: uppercase;
-    font-family: var(--font-display);
-    font-weight: 500;
-}
+
 
 article > button:hover{
     color: var(--white);
